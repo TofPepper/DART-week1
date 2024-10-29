@@ -16,4 +16,12 @@ void main() {
     b = b+1;
   } while(b<max);
 
+  //while loop
+  var list1 = ["first", "second", "third", "fourth"];
+  int i = 2;
+  while(i<list1.length){
+    print(list1[i]);
+    i++;
+  }
+
 }

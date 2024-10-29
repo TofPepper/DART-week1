@@ -2,5 +2,5 @@
 void main() {
   print ("Hello world!");
 
-  print("Emmanueal Tofunmi");
+  print("Emmanuel Tofunmi");
 }

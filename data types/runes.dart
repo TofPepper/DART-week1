@@ -8,7 +8,12 @@ void main(){
   // 🔮 Output the magic!
   print("✨ Casting runes: $castedMagic"); //copied from lms
 
+  //practice
+  Runes heart = Runes('\u2764');
+  String symbol = String.fromCharCodes(heart);
+  print("This is an heart symbol: $symbol");
 
+  
   var heart_symbol = '\u2665'; 
   var laugh_symbol = '\u{1f800}';
   print(heart_symbol);
